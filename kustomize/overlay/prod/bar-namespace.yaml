@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bar
+  labels:
+    environment-id: env_771b63f3-34d8-45e4-88c6-9d7cca6c1600
+    project-id: project_bd6002c3-0d1e-435f-b1ba-b094b4e5c38d
+    project-name: jacksonfive
+    environment-name: prod
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
