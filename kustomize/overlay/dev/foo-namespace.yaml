@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: foo
+  labels:
+    environment-id: env_6a629d11-3e98-4711-a6d1-c0f9dccb558b
+    project-id: project_bd6002c3-0d1e-435f-b1ba-b094b4e5c38d
+    project-name: jacksonfive
+    environment-name: dev
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
