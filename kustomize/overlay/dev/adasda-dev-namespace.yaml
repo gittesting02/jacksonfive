@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: adasda-dev
+  labels:
+    environment-id: env_99329330-f88c-4f54-a777-4e88cfc76e49
+    project-id: project_5e5b2c13-9d4e-42a4-b152-5ff8e2d16bd7
+    project-name: adasda
+    environment-name: dev
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
